@@ -34,26 +34,30 @@ Principal Investigator of Research Projects
 1. General Topic of Zhejiang Provincial Education Science Planning, “Research on Online Learning Cognitive Assessment and Resource Recommendation Strategies Based on Deep Neural Networks”, February 2023 - January 2025, Project Number: 2023SCG367.
 1. Key Project of the Open Fund of the Key Laboratory of Intelligent Education Technology and Application in Zhejiang Province, “Research on Group Cognitive Modeling and Diagnosis for Online Collaborative Learning”, May 16, 2021 - December 31, 2022, Project Number: jykf22006.
 
-Site-wide configuration
+Patents
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+1. Qionghao Huang, Changqin Huang, Ming Li, Fan Jiang, Jianhui Yu. Training, recognition method, system device and medium for facial expression recognition model, invention patent (202111024230.8), China, September 2021.
+1. Qionghao Huang, Changqin Huang, Fan Jiang, Yi Wang, Yaxin Tu, Zhongmei Han. A method for automatic annotation of multimodal educational resources based on temporal causal information, invention patent (202210715895.1), China, July 2022.
+1. Qionghao Huang, Changqin Huang, Yi Wang, Ming Li, Yaxin Tu. Method for dynamic organization of teaching resources driven by causality under the support of teaching and learning behavior data, invention patent (2022112332411), China, October 2022.
+1. Qionghao Huang, Changqin Huang, Fan Jiang, Xizhe Wang, Xiaoyong Mei. Method for optimizing the storage scheduling of educational resources based on multimodal hybrid inference perception, invention patent (2022112332888), China, October 2022.
+1. Changqin Huang, Zhaodi Lu, Qionghao Huang, Zhongmei Han, Fan Jiang. Emotion analysis method based on modality heterogeneity bridging and multimodal dynamic graph fusion, invention patent (2022112375031), China, October 2022.
+1. Changqin Huang, Jie He, Qionghao Huang, Jianhui Yu. Interpretable classroom student emotion analysis method, system, device and medium, invention patent (202010802142.5), China, August 2020.
+1. Changqin Huang, Xuemei Wu, Qionghao Huang, Yaxin Tu, Yi Wang. A method for optimizing the robustness of learning cognitive analysis model based on causal effect, invention patent (2022112331847), China, October 2022.
+1. Changqin Huang, Weiyu Huang, Qionghao Huang, Xizhe Wang, Yuan Li. A semantic prefetching system and method for resource cloud storage in the field of education, invention patent (201810117814.1), China, October 2018.
+1. Changqin Huang, Qionghao Huang, Ming Li, Xizhe Wang, Tao He. Knowledge tracing data processing method, system and storage medium based on graph convolution, invention patent (201911250785.7), China, December 2019.
+1. Changqin Huang, Qionghao Huang, Ming Li, Xizhe Wang. Interpretable knowledge level tracking method, system and storage medium, invention patent (202010801341.4), China, August 2020.
+1. Changqin Huang, Jia Zhu, Qionghao Huang, Wanying Liang. Knowledge tracing method, system, device and medium based on causal reasoning, invention patent (202110223365.0), China, March 2021.
+1. Changqin Huang, Hangjie Wei, Qionghao Huang, Zhongmei Han. Anomaly learner detection method based on graph aggregation and recovery under the support of granular computing, invention patent (202111207734.3), China, October 2021.
+1. Xizhe Wang, Changqin Huang, Ming Li, Qionghao Huang, Fan Jiang. A fine-grained learning performance prediction method, device, equipment and medium, invention patent (202110396455.X), China, April 2021.
+1. Changqin Huang, Yixuan Chen, Ming Li, Qionghao Huang. Cognitive diagnosis method, system and storage medium based on graph neural network, invention patent (202210253979.8), China, March 2022.
+1. Zhongmei Han, Shougang Han, Changqin Huang, Qionghao Huang. Learner emotion evolution analysis method and system based on causal graph neural network, invention patent (202210870610.1), China, July 2022.
+1. Changqin Huang, Fan Jiang, Shijin Wang, Qionghao Huang, Xizhe Wang. A learner emotion analysis method and device based on cross-temporal graph representation, invention patent (202310190443.0), China, February 3, 2023.
+1. Changqin Huang, Hangjie Wei, Qionghao Huang, Yaxin Tu, Yi Wang. A causal temporal double-enhanced knowledge tracing method based on hypergraph clustering, invention patent (202211412022.X), China, November 2022.
+1. Changqin Huang, Zhenheng Lin, Qionghao Huang, Yunliang Jiang, Shijin Wang. A multimodal emotion analysis method and system based on large model video description, invention patent (CN117237774A), Zhejiang Province, China, December 15, 2023.
+1. Changqin Huang, Jili Chen, Yunliang Jiang, Qionghao Huang, Shijin Wang. A method and system for constructing multimodal blended teaching resources based on cognitive neuroscience, invention patent (CN117196908A), Zhejiang Province, China, December 8, 2023.
+1. Changqin Huang, Jiahui Yang, Yunliang Jiang, Qionghao Huang, Shijin Wang. Heterogeneous graph representation learning method, device and medium assisted by large language model, invention patent (2023116128682), China, November 29, 2023.
 
 Create content & metadata
 ------
 For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
 
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
