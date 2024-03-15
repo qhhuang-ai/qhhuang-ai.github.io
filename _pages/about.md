@@ -13,7 +13,7 @@ He long-term research in educational big data, data mining, deep learning, and i
 
 Contacts
 ======
-Email: qhhuang@m.scnu.edu.cn;qhhuang@zjnu.edu.cn;huangqionghao@live.com
+E-mail: qhhuang@m.scnu.edu.cn;qhhuang@zjnu.edu.cn;huangqionghao@live.com
 
 Addr.: No. 688, Yingbin Road, Wucheng District, Jinhua 321004, Zhejiang, China.
 
