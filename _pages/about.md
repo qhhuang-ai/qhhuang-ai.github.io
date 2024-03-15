@@ -26,14 +26,13 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Getting started
+Principal Investigator of Research Projects
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+
+1. National Natural Science Foundation Youth Project, “Cognitive Fine-Grained Diagnosis in Blended Learning Based on Sequential Data and Causal Neural Networks”, January 2023 - December 2025, Project Number: 62207028.
+1. General Project of Zhejiang Provincial Natural Fund, “Research on Cognitive State Prediction and Problem Attribution in Blended Learning Based on Dynamic Sequential Causal Machine Learning”, January 2023 - December 2025, Project Number: Y23F020054.
+1. General Topic of Zhejiang Provincial Education Science Planning, “Research on Online Learning Cognitive Assessment and Resource Recommendation Strategies Based on Deep Neural Networks”, February 2023 - January 2025, Project Number: 2023SCG367.
+1. Key Project of the Open Fund of the Key Laboratory of Intelligent Education Technology and Application in Zhejiang Province, “Research on Group Cognitive Modeling and Diagnosis for Online Collaborative Learning”, May 16, 2021 - December 31, 2022, Project Number: jykf22006.
 
 Site-wide configuration
 ------
