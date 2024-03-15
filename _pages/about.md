@@ -14,8 +14,17 @@ He long-term research in educational big data, data mining, deep learning, and i
 Contacts
 ======
 Email: qhhuang@m.scnu.edu.cn;qhhuang@zjnu.edu.cn;huangqionghao@live.com
+
 Addr.: No. 688, Yingbin Road, Wucheng District, Jinhua 321004, Zhejiang, China.
+
 [GoogleSCholar](https://scholar.google.com/citations?user=bdssb20AAAAJ)|[ResearchGate](https://www.researchgate.net/profile/Qionghao-Huang/)|[Github](https://github.com/qhhuang-ai)
+
+
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 Getting started
 ======
