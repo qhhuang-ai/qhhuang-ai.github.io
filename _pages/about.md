@@ -57,7 +57,9 @@ Patents
 1. Changqin Huang, Jili Chen, Yunliang Jiang, Qionghao Huang, Shijin Wang. A method and system for constructing multimodal blended teaching resources based on cognitive neuroscience, invention patent (CN117196908A), Zhejiang Province, China, December 8, 2023.
 1. Changqin Huang, Jiahui Yang, Yunliang Jiang, Qionghao Huang, Shijin Wang. Heterogeneous graph representation learning method, device and medium assisted by large language model, invention patent (2023116128682), China, November 29, 2023.
 
-Create content & metadata
+Awards
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
+1. University Philosophy and Social Sciences Outstanding Achievement Award, First Prize, Ministry of Education, China, February 2024
+1. Guangdong Province Philosophy and Social Sciences Outstanding Achievement Award, Special Prize, People's Government of Guangdong Province, December 2021
+1. Cheng Tai Gong Hao" Young Teacher Award from the Teaching Fund, October 2022
+1. Outstanding Graduate of Guangdong Province  (Doctoral Research Stage), June 2021
