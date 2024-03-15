@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Qionghao Huang is currently Associate Professor with the Key Laboratory of Intelligent Education Technology and Application, Zhejiang Normal University.
+He is currently Associate Professor with the Key Laboratory of Intelligent Education Technology and Application, Zhejiang Normal University.
 He long-term research in educational big data, data mining, deep learning, and intelligent educational applications. Published more than twenty papers in authoritative information science journals/SCI, like IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Industrial Informatics, Pattern Recognition, Information Sciences.
 
 
