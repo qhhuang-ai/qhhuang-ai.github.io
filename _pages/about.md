@@ -17,7 +17,7 @@ Email: qhhuang@m.scnu.edu.cn;qhhuang@zjnu.edu.cn;huangqionghao@live.com
 
 Addr.: No. 688, Yingbin Road, Wucheng District, Jinhua 321004, Zhejiang, China.
 
-[GoogleSCholar](https://scholar.google.com/citations?user=bdssb20AAAAJ)|[ResearchGate](https://www.researchgate.net/profile/Qionghao-Huang/)|[Github](https://github.com/qhhuang-ai)
+[GoogleScholar](https://scholar.google.com/citations?user=bdssb20AAAAJ)|[ResearchGate](https://www.researchgate.net/profile/Qionghao-Huang/)|[Github](https://github.com/qhhuang-ai)|[ORCID](https://orcid.org/0000-0002-5041-6093)|[DBLP](https://dblp.uni-trier.de/pid/234/8155.html)
 
 
 Publications
