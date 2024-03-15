@@ -21,7 +21,7 @@ repository               : "qhhuang-ai/qhhuang-ai.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Qionghao-Huang.jpg"
+  avatar           : "Qionghao-Huang.png"
   name             : "Qionghao Huang"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
