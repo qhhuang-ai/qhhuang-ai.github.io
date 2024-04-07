@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Qionghao Huang (黄琼浩/浙江师范大学)"
+title                    : "Qionghao Huang"
 title_separator          : "-"
 name                     : &name "Qionghao Huang"
 description              : &description "personal description"
