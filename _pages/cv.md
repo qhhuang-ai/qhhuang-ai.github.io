@@ -61,4 +61,7 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Editor Board Member and A.E. of Plos One (JCR, Q2)
+* Program Committee Member of APWeb-WAIM 2024, GCCIL2022, IFET2021
+* Correspondence review expert for the National Natural Science Foundation
+* Reviewers for IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Industrial Informatics, IEEE Transactions on Learning Technologies, Information Sciences, Knowledge-Based Systems, Expert Systems with Applications, Applied Intelligence, Multimedia Systems, Soft Computing, Scientific Reports, Plos One, CMC-Computers, Materials & Continua,  IEEE ACCESS, Current Bioinformatics, International Journal of Machine Learning and Cybernetics, Computer Systems Science and Engineering
