@@ -62,6 +62,7 @@ Teaching
 Service and leadership
 ======
 * Editor Board Member and A.E. of Plos One (JCR, Q2)
+* Young Editor Board Member of Automation & Information Engineering (Chinese Journal)
 * Correspondence review expert for the National Natural Science Foundation
 * Program Committee Member of APWeb-WAIM 2024, GCCIL 2022, IFET 2021
 * Reviewers for IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Industrial Informatics, IEEE Transactions on Learning Technologies, Information Sciences, Information Processing & Management, Knowledge-Based Systems, Expert Systems with Applications, Applied Intelligence, Multimedia Systems, Soft Computing, Knowledge and Information Systems, Scientific Reports, Plos One, CMC-Computers, Materials & Continua,  IEEE Access, Current Bioinformatics, International Journal of Machine Learning and Cybernetics, Computer Systems Science and Engineering, Current Psychiatry Research and Reviews, CURRENT MEDICAL IMAGING,  Frontiers of Information Technology & Electronic Engineering, IEEE Transactions on Education, IEEE Transactions on Consumer Electronics, JOURNAL OF COMPUTER SCIENCE AND TECHNOLOGY...
