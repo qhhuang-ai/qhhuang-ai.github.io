@@ -11,7 +11,8 @@
           {% if nav.url contains "://" %}
             {% assign domain = "" %}
           {% else %}
-            {% assign domain = base_path %}
+            {% assign domain = relative_url | remove_port %}
+
           {% endif %}
 
           <a href="{{ domain }}{{ nav.url }}"><span class="nav__sub-title">{{ nav.title }}</span></a>
@@ -26,7 +27,8 @@
             {% if child.url contains "://" %}
               {% assign domain = "" %}
             {% else %}
-              {% assign domain = base_path %}
+              {% assign domain = relative_url | remove_port %}
+
             {% endif %}
 
             {% comment %}set "active" class on current page{% endcomment %}
