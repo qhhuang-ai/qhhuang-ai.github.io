@@ -64,3 +64,12 @@ Awards
 1. "Cheng Tai Gong Hao" Young Teacher Award from the Teaching Fund, October 2022
 1. Guangdong Province Philosophy and Social Sciences Outstanding Achievement Award, Special Prize, People's Government of Guangdong Province, December 2021
 1. Outstanding Graduate of Guangdong Province  (Doctoral Research Stage), June 2021
+
+
+Service and leadership
+------
+1. Editor Board Member and A.E. of Plos One (JCR, Q2)
+1. Young Editor Board Member of Automation & Information Engineering (Chinese Journal)
+1. Correspondence review expert for the National Natural Science Foundation
+1. Program Committee Member of APWeb-WAIM 2024, GCCIL 2022, IFET 2021
+1. Reviewers for IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Industrial Informatics, IEEE Transactions on Learning Technologies, Information Sciences, Information Processing & Management, Knowledge-Based Systems, Expert Systems with Applications, Applied Intelligence, Multimedia Systems, Soft Computing, Knowledge and Information Systems, Scientific Reports, Plos One, CMC-Computers, Materials & Continua,  IEEE Access, Current Bioinformatics, International Journal of Machine Learning and Cybernetics, Computer Systems Science and Engineering, Current Psychiatry Research and Reviews, CURRENT MEDICAL IMAGING,  Frontiers of Information Technology & Electronic Engineering, IEEE Transactions on Education, IEEE Transactions on Consumer Electronics, JOURNAL OF COMPUTER SCIENCE AND TECHNOLOGY, Journal of Computational and Cognitive Engineering...
