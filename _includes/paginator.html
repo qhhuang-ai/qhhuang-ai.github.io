@@ -6,7 +6,7 @@
     {% comment %} Link for previous page {% endcomment %}
     {% if paginator.previous_page %}
       {% if paginator.previous_page == 1 %}
-        <li><a href="{{ '/' | relative_url }}">{{ site.data.ui-text[site.locale].pagination_previous | default: "Previous" }}</a></li>
+        <li><a href="{{ '/' | relative_url }}">{{ site.data.ui-text[site.locale].pagination_previous | default: "Previousx" }}</a></li>
       {% else %}
         <li><a href="{{ '/page' | append: paginator.previous_page | append: '/' | relative_url }}">{{ site.data.ui-text[site.locale].pagination_previous | default: "Previous" }}</a></li>
       {% endif %}
