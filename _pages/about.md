@@ -9,7 +9,7 @@ redirect_from:
 
 He is currently an Associate Professor with the Key Laboratory of Intelligent Education Technology and Application, Zhejiang Normal University.
 His research interests include educational big data, data mining, deep learning, and intelligent educational applications. Various research papers have been published in authoritative information science journals/SCI, like IEEE Transaction on Knowledge and Data Engineering, IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Industrial Informatics, Pattern Recognition, Information Sciences.
-He is a member of CAAI, CCF and IEEE Computer Society. He is the Editor Board Member and A.E. of Plos One (JCR, Q2), the Young Editor Board Member of Automation & Information Engineering.
+He is a member of CAAI, CCF and IEEE Computer Society. He is the Editor Board Member and A.E. of Plos One (JCR, Q1), the Young Editor Board Member of Automation & Information Engineering.
 
 
 Contacts
@@ -68,7 +68,7 @@ Awards
 
 Service and leadership
 ------
-1. Editor Board Member and A.E. of Plos One (JCR, Q2)
+1. Editor Board Member and A.E. of Plos One (JCR, Q1)
 1. Young Editor Board Member of Automation & Information Engineering (Chinese Journal)
 1. Correspondence review expert for the National Natural Science Foundation
 1. Program Committee Member of APWeb-WAIM 2024, GCCIL 2022, IFET 2021
