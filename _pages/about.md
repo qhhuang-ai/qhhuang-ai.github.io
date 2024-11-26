@@ -7,10 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-He is currently an Associate Professor with the Key Laboratory of Intelligent Education Technology and Application, Zhejiang Normal University.
-His research interests include educational big data, data mining, deep learning, and intelligent educational applications. Various research papers have been published in authoritative information science journals/SCI, like IEEE Transaction on Knowledge and Data Engineering, IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Industrial Informatics, Pattern Recognition, Information Sciences.
-He is a member of CAAI, CCF and IEEE Computer Society. He is the Editor Board Member and A.E. of Plos One (JCR, Q1), the Young Editor Board Member of Automation & Information Engineering.
 
+He is currently an Associate Professor, core member of the Zhejiang Provincial Key Laboratory of Intelligent Education Technology and Applications. 
+He is Associate Editor and Editorial Board Member of PLOS One (SCI Q3), Youth Editorial Board Member of Automation and Information Engineering, and Communication Review Expert for National Natural Science Foundation of China. 
+His long-term research focuses on data mining, machine learning, and intelligent education applications. 
+He has published over 30 papers in authoritative international/SCI Q1 journals including IEEE Transaction on Knowledge and Data Engineering, 
+IEEE Transactions on Cybernetics, IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Industrial Informatics, Information Fusion, Information Sciences, Pattern Recognition, Knowledge-Based Systems, with 1 ESI highly cited paper. 
+On intellectual property rights, he has co-applied for 22 invention patents and obtained 2 software copyrights. 
+He is principal investigator of 5 projects including National Natural Science Foundation Youth Project and Zhejiang Provincial Natural Science General Project, and participated in several national key and provincial major projects. 
+He received awards including Ministry of Education and Guangdong Province Philosophy and Social Science Outstanding Achievement Award, "Guangdong Province Outstanding Doctoral Graduate" and others.
 
 Contacts
 ======
@@ -38,26 +43,33 @@ Principal Investigator of Research Projects
 
 Patents
 ------
-1. Qionghao Huang, Changqin Huang, Ming Li, Fan Jiang, Jianhui Yu. Training, recognition method, system device and medium for facial expression recognition model, invention patent (202111024230.8), China, September 2021.
-1. Qionghao Huang, Changqin Huang, Fan Jiang, Yi Wang, Yaxin Tu, Zhongmei Han. A method for automatic annotation of multimodal educational resources based on temporal causal information, invention patent (202210715895.1), China, July 2022.
-1. Qionghao Huang, Changqin Huang, Yi Wang, Ming Li, Yaxin Tu. Method for dynamic organization of teaching resources driven by causality under the support of teaching and learning behavior data, invention patent (2022112332411), China, October 2022.
-1. Qionghao Huang, Changqin Huang, Fan Jiang, Xizhe Wang, Xiaoyong Mei. Method for optimizing the storage scheduling of educational resources based on multimodal hybrid inference perception, invention patent (2022112332888), China, October 2022.
-1. Changqin Huang, Zhaodi Lu, Qionghao Huang, Zhongmei Han, Fan Jiang. Emotion analysis method based on modality heterogeneity bridging and multimodal dynamic graph fusion, invention patent (2022112375031), China, October 2022.
-1. Changqin Huang, Jie He, Qionghao Huang, Jianhui Yu. Interpretable classroom student emotion analysis method, system, device and medium, invention patent (202010802142.5), China, August 2020.
-1. Changqin Huang, Xuemei Wu, Qionghao Huang, Yaxin Tu, Yi Wang. A method for optimizing the robustness of learning cognitive analysis model based on causal effect, invention patent (2022112331847), China, October 2022.
-1. Changqin Huang, Weiyu Huang, Qionghao Huang, Xizhe Wang, Yuan Li. A semantic prefetching system and method for resource cloud storage in the field of education, invention patent (201810117814.1), China, October 2018.
-1. Changqin Huang, Qionghao Huang, Ming Li, Xizhe Wang, Tao He. Knowledge tracing data processing method, system and storage medium based on graph convolution, invention patent (201911250785.7), China, December 2019.
-1. Changqin Huang, Qionghao Huang, Ming Li, Xizhe Wang. Interpretable knowledge level tracking method, system and storage medium, invention patent (202010801341.4), China, August 2020.
-1. Changqin Huang, Jia Zhu, Qionghao Huang, Wanying Liang. Knowledge tracing method, system, device and medium based on causal reasoning, invention patent (202110223365.0), China, March 2021.
-1. Changqin Huang, Hangjie Wei, Qionghao Huang, Zhongmei Han. Anomaly learner detection method based on graph aggregation and recovery under the support of granular computing, invention patent (202111207734.3), China, October 2021.
-1. Xizhe Wang, Changqin Huang, Ming Li, Qionghao Huang, Fan Jiang. A fine-grained learning performance prediction method, device, equipment and medium, invention patent (202110396455.X), China, April 2021.
-1. Changqin Huang, Yixuan Chen, Ming Li, Qionghao Huang. Cognitive diagnosis method, system and storage medium based on graph neural network, invention patent (202210253979.8), China, March 2022.
-1. Zhongmei Han, Shougang Han, Changqin Huang, Qionghao Huang. Learner emotion evolution analysis method and system based on causal graph neural network, invention patent (202210870610.1), China, July 2022.
-1. Changqin Huang, Fan Jiang, Shijin Wang, Qionghao Huang, Xizhe Wang. A learner emotion analysis method and device based on cross-temporal graph representation, invention patent (202310190443.0), China, February 3, 2023.
-1. Changqin Huang, Hangjie Wei, Qionghao Huang, Yaxin Tu, Yi Wang. A causal temporal double-enhanced knowledge tracing method based on hypergraph clustering, invention patent (202211412022.X), China, November 2022.
-1. Changqin Huang, Zhenheng Lin, Qionghao Huang, Yunliang Jiang, Shijin Wang. A multimodal emotion analysis method and system based on large model video description, invention patent (CN117237774A), Zhejiang Province, China, December 15, 2023.
-1. Changqin Huang, Jili Chen, Yunliang Jiang, Qionghao Huang, Shijin Wang. A method and system for constructing multimodal blended teaching resources based on cognitive neuroscience, invention patent (CN117196908A), Zhejiang Province, China, December 8, 2023.
-1. Changqin Huang, Jiahui Yang, Yunliang Jiang, Qionghao Huang, Shijin Wang. Heterogeneous graph representation learning method, device and medium assisted by large language model, invention patent (2023116128682), China, November 29, 2023.
+1. Huang Qionghao, Huang Changqin, Li Ming, Jiang Fan, Yu Jianhui, "Facial Expression Recognition Model Training, Recognition Method, System Device and Medium", Invention Patent (202111024230.8), China, September 2021
+1. Huang Qionghao, Huang Changqin, Jiang Fan, Wang Yi, Tu Yaxin, Han Zhongmei, "An Automatic Annotation Method for Multimodal Educational Resources Based on Temporal Causal Information", Invention Patent (202210715895.1), China, July 2022 
+1. Huang Qionghao, Huang Changqin, Wang Yi, Li Ming, Tu Yaxin, "Dynamic Organization Method of Teaching Resources Driven by Teaching and Learning Behavioral Data", Invention Patent (2022112332411), China, October 2022
+1. Huang Qionghao, Huang Changqin, Jiang Fan, Wang Xizhe, Mei Xiaoyong, "Educational Resource Storage Scheduling Optimization Method Based on Multimodal Hybrid Inference Perception", Invention Patent (2022112332888), China, October 2022
+1. Huang Changqin, Lin Zhenheng, Huang Qionghao, Jiang Yunliang, Wang Shijin, "A Multimodal Sentiment Analysis Method and System Based on Large Model Video Description", Patent [P], Zhejiang Province: CN117237774A, December 15, 2023
+1. Huang Changqin, Chen Jili, Jiang Yunliang, Huang Qionghao, Wang Shijin, "Construction Method and System of Multimodal Mixed Teaching Resources Based on Cognitive Neuroscience", Patent [P], Zhejiang Province: CN117196908A, December 8, 2023
+1. Huang Changqin, Yang Jiahui, Jiang Yunliang, Huang Qionghao, Wang Shijin, "Heterogeneous Graph Representation Learning Method, Device and Medium Assisted by Large Language Model", Invention Patent (2023116128682), November 29, 2023
+1. Huang Changqin, Lu Zhaodi, Huang Qionghao, Han Zhongmei, Jiang Fan, "Sentiment Analysis Method Based on Modal Heterogeneity Bridging and Multimodal Dynamic Graph Fusion", Invention Patent (2022112375031), China, October 2022
+1. Huang Changqin, He Jie, Huang Qionghao, Yu Jianhui, "Explainable Classroom Student Emotion Analysis Method, System, Device and Medium", Invention Patent (202010802142.5), China, August 2020
+1. Huang Changqin, Wu Xuemei, Huang Qionghao, Tu Yaxin, Wang Yi, "A Robustness Optimization Method for Learning Cognitive Analysis Model Based on Causal Effects", Invention Patent (2022112331847), China, October 2022
+1. Huang Changqin, Huang Weiyu, Huang Qionghao, Wang Xizhe, Li Yuan, "Semantic Prefetching System and Method for Educational Resource Cloud Storage", Invention Patent (201810117814.1), China, October 2018
+1. Huang Changqin, Huang Qionghao, Li Ming, Wang Xizhe, He Tao, "Knowledge Tracing Data Processing Method, System and Storage Medium Based on Graph Convolution", Invention Patent (201911250785.7), China, December 2019
+1. Huang Changqin, Huang Qionghao, Li Ming, Wang Xizhe, "Explainable Knowledge Level Tracking Method, System and Storage Medium", Invention Patent (202010801341.4), China, August 2020
+1. Huang Changqin, Zhu Jia, Huang Qionghao, Liang Wanying, "Knowledge Tracing Method, System, Device and Medium Based on Causal Reasoning", Invention Patent (202110223365.0), China, March 2021
+1. Huang Changqin, Wei Hangjie, Huang Qionghao, Han Zhongmei, "Abnormal Learner Detection Method Based on Graph Aggregation and Recovery with Granular Computing Support", Invention Patent (202111207734.3), China, October 2021
+1. Wang Xizhe, Huang Changqin, Li Ming, Huang Qionghao, Jiang Fan, "Fine-grained Learning Performance Prediction Method, Device, Equipment and Medium", Invention Patent (202110396455.X), China, April 2021
+1. Huang Changqin, Chen Yixuan, Li Ming, Huang Qionghao, "Cognitive Diagnosis Method, System and Storage Medium Based on Graph Neural Networks", Invention Patent (202210253979.8), China, March 2022
+1. Han Zhongmei, Han Shougang, Huang Changqin, Huang Qionghao, "Learner Emotion Evolution Analysis Method and System Based on Causal Graph Neural Networks", Invention Patent (202210870610.1), China, July 2022
+1. Huang Changqin, Jiang Fan, Wang Shijin, Huang Qionghao, Wang Xizhe, "A Learner Emotion Analysis Method and Device Based on Cross-temporal-spatial Graph Representation", Invention Patent (202310190443.0), China, February 3, 2023
+1. Huang Changqin, Wei Hangjie, Huang Qionghao, Tu Yaxin, Wang Yi, "A Causal Temporal Dual-enhanced Knowledge Tracing Method Based on Hypergraph Clustering", Invention Patent (202211412022.X), China, November 2022
+1. Wang Xizhe, Zhang Xiangyuan, Huang Changqin, Zhang Linjie, Huang Qionghao, "Question Generation Method, System, Electronic Device and Medium Based on Large Language Model", Invention Patent (202410648063.1), China, May 2024
+1. Wang Xizhe, Zhong Yihua, Huang Changqin, Huang Qionghao, Han Zhongmei, "Personalized Question Generation and Assisted Learning Method and System Based on Large Language Model", Invention Patent (202311484184.9), China, November 2023
+1. Huang Changqin, Jiang Fan, Jiang Yunliang, Xiao Jun, Huang Qionghao, "Learner Engagement Analysis Method and System Based on Multimodal Large Language Model", Invention Patent (202410158587), China, August 2024
+1. He Tao, Yu Jianhui, Huang Qionghao, "Learning Task Processing Method, System and Storage Medium Based on Group Cognitive Causality", Invention Patent (CN202310256354.1), March 2023
+1. Huang Changqin, Lin Zhenheng, Huang Qionghao, Jiang Fan, Wang Xizhe, "A Multimodal Sentiment Analysis Method and System Based on Two-stage Heterogeneous Hypergraph", Invention Patent (CN202411255941.X), September 2024
+1. Huang Changqin, Yu Binghang, Gao Chengling, Huang Qionghao, Tu Yaxin, "Abnormal Group Detection Method and System for Computer-Supported Collaborative Learning Based on Hypergraph", Invention Patent (CN202411187673.2), August 2024
+1. Huang Changqin, Chen Jili, Huang Qionghao, Han Zhongmei, Wang Shijin, "A Cross-modal Emotion Causal Tracking Method", Invention Patent (CN202411237121.8), September 2024
 
 Awards
 ------
