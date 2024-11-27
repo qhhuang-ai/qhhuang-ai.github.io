@@ -74,9 +74,9 @@ Patents
 
 Software Copyrights
 ------
-[1]He Tao, Huang Changqin, Li Ming, Huang Qionghao, Han Zhongmei, Wang Xizhe, "An Online Community System for Knowledge Discovery and Sharing Supported by Mobile Social Collaboration", Software Copyright (2020SR0096127), January 2020
-[2]Huang Changqin, Zhang Junling, Huang Qionghao, Jiang Fan, "Learner Emotion Analysis System for Teaching State Perception", Software Copyright (2022SR1437994), October 2022
-[3]Han Zhongmei, Han Shougang, Huang Changqin, Huang Qionghao, Wu Xuemei, "Learning Conflict Detection System Based on Generative AI Chain of Thought V1.0", Software Copyright, Registration No.: 2024SR0219736, China, February 2024
+1. He Tao, Huang Changqin, Li Ming, Huang Qionghao, Han Zhongmei, Wang Xizhe, "An Online Community System for Knowledge Discovery and Sharing Supported by Mobile Social Collaboration", Software Copyright (2020SR0096127), January 2020
+1. Huang Changqin, Zhang Junling, Huang Qionghao, Jiang Fan, "Learner Emotion Analysis System for Teaching State Perception", Software Copyright (2022SR1437994), October 2022
+1. Han Zhongmei, Han Shougang, Huang Changqin, Huang Qionghao, Wu Xuemei, "Learning Conflict Detection System Based on Generative AI Chain of Thought V1.0", Software Copyright, Registration No.: 2024SR0219736, China, February 2024
 
 Awards
 ------
