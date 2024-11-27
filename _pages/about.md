@@ -9,7 +9,7 @@ redirect_from:
 
 
 He is currently an Associate Professor, core member of the Zhejiang Provincial Key Laboratory of Intelligent Education Technology and Applications. 
-He is Associate Editor and Editorial Board Member of PLOS One (SCI Q3), Youth Editorial Board Member of Automation and Information Engineering, and Communication Review Expert for National Natural Science Foundation of China. 
+He is Associate Editor and Editorial Board Member of PLOS One (JCR Q1), Youth Editorial Board Member of Automation and Information Engineering, and Communication Review Expert for National Natural Science Foundation of China. 
 His long-term research focuses on data mining, machine learning, and intelligent education applications. 
 He has published over 30 papers in authoritative international/SCI Q1 journals including IEEE Transaction on Knowledge and Data Engineering, 
 IEEE Transactions on Cybernetics, IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Industrial Informatics, Information Fusion, Information Sciences, Pattern Recognition, Knowledge-Based Systems, with 1 ESI highly cited paper. 
