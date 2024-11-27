@@ -13,7 +13,7 @@ He is Associate Editor and Editorial Board Member of PLOS One (SCI Q3), Youth Ed
 His long-term research focuses on data mining, machine learning, and intelligent education applications. 
 He has published over 30 papers in authoritative international/SCI Q1 journals including IEEE Transaction on Knowledge and Data Engineering, 
 IEEE Transactions on Cybernetics, IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Industrial Informatics, Information Fusion, Information Sciences, Pattern Recognition, Knowledge-Based Systems, with 1 ESI highly cited paper. 
-On intellectual property rights, he has co-applied for 22 invention patents and obtained 2 software copyrights. 
+On intellectual property rights, he has co-applied for 27 invention patents and obtained 3 software copyrights. 
 He is principal investigator of 5 projects including National Natural Science Foundation Youth Project and Zhejiang Provincial Natural Science General Project, and participated in several national key and provincial major projects. 
 He received awards including Ministry of Education and Guangdong Province Philosophy and Social Science Outstanding Achievement Award, "Guangdong Province Outstanding Doctoral Graduate" and others.
 
@@ -70,6 +70,13 @@ Patents
 1. Huang Changqin, Lin Zhenheng, Huang Qionghao, Jiang Fan, Wang Xizhe, "A Multimodal Sentiment Analysis Method and System Based on Two-stage Heterogeneous Hypergraph", Invention Patent (CN202411255941.X), September 2024
 1. Huang Changqin, Yu Binghang, Gao Chengling, Huang Qionghao, Tu Yaxin, "Abnormal Group Detection Method and System for Computer-Supported Collaborative Learning Based on Hypergraph", Invention Patent (CN202411187673.2), August 2024
 1. Huang Changqin, Chen Jili, Huang Qionghao, Han Zhongmei, Wang Shijin, "A Cross-modal Emotion Causal Tracking Method", Invention Patent (CN202411237121.8), September 2024
+
+
+Software Copyrights
+------
+[1]He Tao, Huang Changqin, Li Ming, Huang Qionghao, Han Zhongmei, Wang Xizhe, "An Online Community System for Knowledge Discovery and Sharing Supported by Mobile Social Collaboration", Software Copyright (2020SR0096127), January 2020
+[2]Huang Changqin, Zhang Junling, Huang Qionghao, Jiang Fan, "Learner Emotion Analysis System for Teaching State Perception", Software Copyright (2022SR1437994), October 2022
+[3]Han Zhongmei, Han Shougang, Huang Changqin, Huang Qionghao, Wu Xuemei, "Learning Conflict Detection System Based on Generative AI Chain of Thought V1.0", Software Copyright, Registration No.: 2024SR0219736, China, February 2024
 
 Awards
 ------
