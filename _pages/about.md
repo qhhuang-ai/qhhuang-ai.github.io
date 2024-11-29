@@ -8,14 +8,7 @@ redirect_from:
 ---
 
 
-He is currently an Associate Professor, core member of the Zhejiang Provincial Key Laboratory of Intelligent Education Technology and Applications. 
-He is Associate Editor and Editorial Board Member of PLOS One (JCR Q1), Youth Editorial Board Member of Automation and Information Engineering, and Communication Review Expert for National Natural Science Foundation of China. 
-His long-term research focuses on data mining, machine learning, and intelligent education applications. 
-He has published over 30 papers in authoritative international/SCI Q1 journals including IEEE Transaction on Knowledge and Data Engineering, 
-IEEE Transactions on Cybernetics, IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Industrial Informatics, Information Fusion, Information Sciences, Pattern Recognition, Knowledge-Based Systems, with 1 ESI highly cited paper. 
-On intellectual property rights, he has co-applied for 27 invention patents and obtained 3 software copyrights. 
-He is principal investigator of 5 projects including National Natural Science Foundation Youth Project and Zhejiang Provincial Natural Science General Project, and participated in several national key and provincial major projects. 
-He received awards including Ministry of Education and Guangdong Province Philosophy and Social Science Outstanding Achievement Award, "Guangdong Province Outstanding Doctoral Graduate" and others.
+He is currently an Associate Professor with the Key Laboratory of Intelligent Education Technology and Application, Zhejiang Normal University. His research interests include educational big data, data mining, deep learning, and intelligent educational applications. Various research papers have been published in authoritative information science journals/SCI, like IEEE Transaction on Knowledge and Data Engineering, IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Industrial Informatics, Pattern Recognition, Information Sciences. He is a member of CAAI, CCF and IEEE Computer Society. He is the Editor Board Member and A.E. of Plos One (JCR, Q1), the Young Editor Board Member of Automation & Information Engineering.
 
 Contacts
 ======
