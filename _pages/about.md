@@ -85,6 +85,7 @@ Awards
 1. "Cheng Tai Gong Hao" Young Teacher Award from the Teaching Fund, October 2022
 1. Guangdong Province Philosophy and Social Sciences Outstanding Achievement Award, Special Prize, People's Government of Guangdong Province, December 2021
 1. Outstanding Graduate of Guangdong Province  (Doctoral Research Stage), June 2021
+1. 2023 Zhejiang Province Educational Science Research Outstanding Achievement Award, Second Prize (4/5), December 2024
 
 
 Service and leadership
