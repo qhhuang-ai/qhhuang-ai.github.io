@@ -16,7 +16,8 @@ like IEEE Transaction on Knowledge and Data Engineering, IEEE Transactions on Ne
 IEEE Transactions on Industrial Informatics, Pattern Recognition, Information Sciences, AAAI, APWEB. 
 He is a member of CAAI, CCF and IEEE Computer Society. 
 He is the Editor Board Member and A.E. of Plos One (JCR, Q1), 
-the Young Editor Board Member of Automation & Information Engineering. 
+the Young Editor Board Member of Automation & Information Engineering,
+the Editor Board Member of Forum for Education Studies. 
 
 Contacts
 ======
@@ -92,6 +93,7 @@ Service and leadership
 ------
 1. Editor Board Member and A.E. of Plos One (JCR, Q1)
 1. Young Editor Board Member of Automation & Information Engineering (Chinese Journal)
+1. Editor Board Member of Forum for Education Studies
 1. Correspondence review expert for the National Natural Science Foundation
 1. Program Committee Member of APWeb-WAIM 2024, GCCIL 2022, IFET 2021
 1. Reviewers for IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Industrial Informatics, IEEE Transactions on Learning Technologies, Information Sciences, Information Processing & Management, Knowledge-Based Systems, Expert Systems with Applications, Applied Intelligence, Multimedia Systems, Soft Computing, Knowledge and Information Systems, Scientific Reports, Plos One, CMC-Computers, Materials & Continua,  IEEE Access, Current Bioinformatics, International Journal of Machine Learning and Cybernetics, Computer Systems Science and Engineering, Current Psychiatry Research and Reviews, CURRENT MEDICAL IMAGING,  Frontiers of Information Technology & Electronic Engineering, IEEE Transactions on Education, IEEE Transactions on Consumer Electronics, JOURNAL OF COMPUTER SCIENCE AND TECHNOLOGY, Journal of Computational and Cognitive Engineering, Interactive Learning Environments, CMES-Computer Modeling in Engineering & Sciences, Journal on Artificial Intelligence, Discover Artificial Intelligence, Engineering Applications of Artificial Intelligence, 
