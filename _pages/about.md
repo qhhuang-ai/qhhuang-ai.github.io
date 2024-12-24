@@ -16,6 +16,7 @@ like IEEE Transaction on Knowledge and Data Engineering, IEEE Transactions on Ne
 IEEE Transactions on Industrial Informatics, Pattern Recognition, Information Sciences, AAAI, APWEB. 
 He is a member of CAAI, CCF and IEEE Computer Society. 
 He is the Editor Board Member and A.E. of Plos One (JCR, Q1), 
+the Young Editor Board Member of the Journal of Guangdong University of Technology,
 the Young Editor Board Member of Automation & Information Engineering,
 the Editor Board Member of Forum for Education Studies. 
 
@@ -83,6 +84,7 @@ Software Copyrights
 Awards
 ------
 1. University Philosophy and Social Sciences Outstanding Achievement Award, First Prize, Ministry of Education, China, February 2024
+1. China Patent Award, Excellence Prize, China National Intellectual Property Administration, China, December, 2024
 1. "Cheng Tai Gong Hao" Young Teacher Award from the Teaching Fund, October 2022
 1. Guangdong Province Philosophy and Social Sciences Outstanding Achievement Award, Special Prize, People's Government of Guangdong Province, December 2021
 1. Outstanding Graduate of Guangdong Province  (Doctoral Research Stage), June 2021
@@ -92,6 +94,7 @@ Awards
 Service and leadership
 ------
 1. Editor Board Member and A.E. of Plos One (JCR, Q1)
+1. Young Editor Board Member of the Journal of Guangdong University of Technology
 1. Young Editor Board Member of Automation & Information Engineering (Chinese Journal)
 1. Editor Board Member of Forum for Education Studies
 1. Correspondence review expert for the National Natural Science Foundation
