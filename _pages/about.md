@@ -94,7 +94,7 @@ Awards
 Service and leadership
 ------
 1. Editor Board Member and A.E. of Plos One (JCR, Q1)
-1. Young Editor Board Member of the Journal of Guangdong University of Technology
+1. Young Editor Board Member of the Journal of Guangdong University of Technology (Chinese Journal)
 1. Young Editor Board Member of Automation & Information Engineering (Chinese Journal)
 1. Editor Board Member of Forum for Education Studies
 1. Correspondence review expert for the National Natural Science Foundation
