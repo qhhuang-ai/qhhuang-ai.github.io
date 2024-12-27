@@ -37,7 +37,7 @@ Publications
 
 Principal Investigator of Research Projects
 ======
-1. Sub-project of the National Key R&D Program, 'Technology for Constructing Multi-level Disciplinary Knowledge Graphs Supporting Self-evolution,' January 2025 - December 2027, 700,000RMB
+1. Sub-project of National Key R&D Program, "Construction Technology for Self-Evolving Multi-level Disciplinary Knowledge Graphs", Jan 2025 - Dec 2027, 700,000 RMB
 1. National Natural Science Foundation Youth Project, “Cognitive Fine-Grained Diagnosis in Blended Learning Based on Sequential Data and Causal Neural Networks”, January 2023 - December 2025, Project Number: 62207028.
 1. General Project of Zhejiang Provincial Natural Fund, “Research on Cognitive State Prediction and Problem Attribution in Blended Learning Based on Dynamic Sequential Causal Machine Learning”, January 2023 - December 2025, Project Number: Y23F020054.
 1. General Philosophy Planning Project of Zhejiang Province, “Research on Improving Student Feedback Literacy with AIGC Emotional Enhancement Support“, January 1, 2025 - December 31, 2027"
