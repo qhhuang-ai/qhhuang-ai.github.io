@@ -19,7 +19,7 @@ He is the Editor Board Member and A.E. of Plos One (JCR, Q1),
 the Editor Board Member of Current Machine Learning, 
 the Young Editor Board Member of the Journal of Guangdong University of Technology,
 the Young Editor Board Member of Automation & Information Engineering,
-the Editor Board Member of Forum for Education Studies. 
+the Editor Board Member of Forum for Education Studies.  
 
 Contacts
 ======
