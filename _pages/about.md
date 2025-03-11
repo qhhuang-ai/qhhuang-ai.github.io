@@ -17,6 +17,7 @@ IEEE Transactions on Industrial Informatics, Pattern Recognition, Information Sc
 He is a member of CAAI, CCF and IEEE Computer Society. 
 He is the Editor Board Member and A.E. of Plos One (JCR, Q1), 
 the Editor Board Member of Current Machine Learning, 
+the Young Editor Board Member of the Journal of Jiangsu University, 
 the Young Editor Board Member of the Journal of Guangdong University of Technology,
 the Young Editor Board Member of Automation & Information Engineering,
 the Editor Board Member of Forum for Education Studies.  
@@ -96,6 +97,7 @@ Service and leadership
 ------
 1. Editor Board Member and A.E. of Plos One (JCR, Q1)
 1. Editor Board Member of Current Machine Learning
+1. Young Editor Board Member of the Journal of Jiangsu University (Chinese Journal)
 1. Young Editor Board Member of the Journal of Guangdong University of Technology (Chinese Journal)
 1. Young Editor Board Member of Automation & Information Engineering (Chinese Journal)
 1. Editor Board Member of Forum for Education Studies
