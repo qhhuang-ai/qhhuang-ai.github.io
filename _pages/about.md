@@ -13,7 +13,8 @@ Zhejiang Normal University. His research interests include educational big data,
 and intelligent educational applications. 
 Various research papers have been published in authoritative information science journals/SCI or conferences, 
 like IEEE Transaction on Knowledge and Data Engineering, IEEE Transactions on Neural Networks and Learning Systems, 
-IEEE Transactions on Industrial Informatics, Pattern Recognition, Information Sciences, AAAI, APWEB. 
+IEEE Transactions on Industrial Informatics, ACM Transactions on Multimedia Computing, Communications, and Applications,
+Pattern Recognition, Information Sciences, AAAI, APWEB. 
 He is a member of CAAI, CCF and IEEE Computer Society. 
 He is the Editor Board Member and A.E. of Plos One (JCR, Q1), 
 the Editor Board Member of Current Machine Learning, 
