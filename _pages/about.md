@@ -97,6 +97,7 @@ Awards
 Service and leadership
 ------
 1. Editor Board Member and A.E. of Plos One (JCR, Q1)
+1. Leading Guest Editor of Sustainability (JCR, Q2)
 1. Editor Board Member of Current Machine Learning
 1. Young Editor Board Member of the Journal of Jiangsu University (Chinese Journal)
 1. Young Editor Board Member of the Journal of Guangdong University of Technology (Chinese Journal)
