@@ -84,6 +84,7 @@ Software Copyrights
 1. Huang Changqin, Zhang Junling, Huang Qionghao, Jiang Fan, "Learner Emotion Analysis System for Teaching State Perception", Software Copyright (2022SR1437994), October 2022
 1. Han Zhongmei, Han Shougang, Huang Changqin, Huang Qionghao, Wu Xuemei, "Learning Conflict Detection System Based on Generative AI Chain of Thought V1.0", Software Copyright, Registration No.: 2024SR0219736, China, February 2024
 
+
 Awards
 ------
 1. University Philosophy and Social Sciences Outstanding Achievement Award, First Prize, Ministry of Education, China, February 2024 
@@ -96,7 +97,7 @@ Awards
 
 Service and leadership
 ------
-1. Editor Board Member and A.E. of Plos One (JCR, Q1)
+1. Editor Board Member and A.E. of PlOS One (JCR, Q1)
 1. Leading Guest Editor of Sustainability (JCR, Q2)
 1. Editor Board Member of Current Machine Learning
 1. Young Editor Board Member of the Journal of Jiangsu University (Chinese Journal)
