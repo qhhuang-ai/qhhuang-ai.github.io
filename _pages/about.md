@@ -17,6 +17,7 @@ IEEE Transactions on Industrial Informatics, ACM Transactions on Multimedia Comp
 Pattern Recognition, Information Sciences, AAAI, APWEB. 
 He is a member of CAAI, CCF and IEEE Computer Society. 
 He is the Editor Board Member and A.E. of Plos One (JCR, Q1), 
+the Editor Board Member of Scientific Reports(JCR, Q1), 
 the Editor Board Member of Current Machine Learning, 
 the Young Editor Board Member of the Journal of Jiangsu University, 
 the Young Editor Board Member of the Journal of Guangdong University of Technology,
