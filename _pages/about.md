@@ -39,6 +39,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+
 Principal Investigator of Research Projects
 ======
 1. Sub-project of National Key R&D Program, "Construction Technology for Self-Evolving Multi-level Disciplinary Knowledge Graphs", Jan 2025 - Dec 2027, 700,000 RMB
